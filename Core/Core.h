@@ -1,6 +1,6 @@
 #pragma once
 #include "Server.h"
-
+// вш╨охК©з
 class CCore
 {
 public:

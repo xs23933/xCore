@@ -1,4 +1,5 @@
 #pragma once
+// 代理服务线程类
 class CServer
 {
 public:
