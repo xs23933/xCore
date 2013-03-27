@@ -30,6 +30,7 @@ void CServer::run(void)
 	// 创建代理服务线程并启动端口监听
 	m_threadid = _beginthread(&CServer::threadMethod, 0, this);
 	while(true){Sleep(1);}
+
 }
 
 void CServer::threadMethod(void * arg)

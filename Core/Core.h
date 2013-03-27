@@ -1,5 +1,6 @@
 #pragma once
 #include "Server.h"
+#include "resource.h"
 // вш╨охК©з
 class CCore
 {
