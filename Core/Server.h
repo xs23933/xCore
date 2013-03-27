@@ -13,5 +13,6 @@ public:
 protected:
 	unsigned m_threadid;
 	void Close(void);
+	bool listen(void)
 };
 
