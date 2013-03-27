@@ -10,5 +10,6 @@ public:
 	unsigned m_threadid;
 	static void threadMethod(void * arg);
 	bool work(void);
+
 };
 
