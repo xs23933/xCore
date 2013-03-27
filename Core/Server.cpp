@@ -22,6 +22,7 @@ void CServer::Close(void){
 }
 bool CServer::proxy(void){
 	listen();
+	return true;
 }
 
 void CServer::run(void)
